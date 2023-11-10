@@ -1,0 +1,13 @@
+.categoryList {
+  padding-left: 0;
+  list-style-type: none;
+  overflow-y: scroll;
+}
+.categoryItem {
+  margin: 5px;
+  padding: 6px;
+  border-radius: 5px;
+}
+.activeCategory {
+  background-color: rgb(143, 210, 241);
+}
